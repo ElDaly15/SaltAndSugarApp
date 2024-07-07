@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553741224702",
+    "project_id": "resturant-1f065",
+    "storage_bucket": "resturant-1f065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553741224702:android:14f9e92c197e4171e9b3af",
+        "android_client_info": {
+          "package_name": "com.example.resturant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1NRbJKYIQbqSQma6LvJv5WT1XpbeXh1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553741224702:android:d00ad6f551c83cbae9b3af",
+        "android_client_info": {
+          "package_name": "com.example.saltandsugar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1NRbJKYIQbqSQma6LvJv5WT1XpbeXh1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
