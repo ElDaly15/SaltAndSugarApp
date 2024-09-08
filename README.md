@@ -1,16 +1,14 @@
-# saltandsugar
+## Salt And Sugar  
+**Duration**: 03/2024 – 05/2024  
+**Technologies**: Flutter, MVVM Architecture, Bloc Pattern, Firebase, Animations  
 
-A new Flutter project.
+### Introduction
+Salt And Sugar is a restaurant app designed to streamline the ordering process for customers and provide an efficient system for administrators to manage the menu.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features
+- Intuitive user interface for placing orders.
+- Admin panel to add new products and keep the menu up-to-date.
+- MVVM architecture for a well-organized code structure.
+- State management handled via Bloc pattern.
+- Integrated Firebase for backend services (authentication, real-time database, cloud storage).
+- Engaging and smooth animations for enhanced user experience.
