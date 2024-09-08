@@ -12,3 +12,20 @@ Salt And Sugar is a restaurant app designed to streamline the ordering process f
 - State management handled via Bloc pattern.
 - Integrated Firebase for backend services (authentication, real-time database, cloud storage).
 - Engaging and smooth animations for enhanced user experience.
+
+### Requirements
+- **Flutter SDK**: >= 2.5.0  
+- **Dart**: >= 2.14.0  
+- **Firebase account** for setting up backend services  
+
+### How to Use
+
+#### Customer Side:
+1. Browse the menu.
+2. Select items to order.
+3. Proceed to checkout.  
+*Orders are processed and updated in real time.*
+
+#### Admin Panel:
+1. Login to the admin dashboard.
+2. Manage the menu: add, remove, and edit menu items.
