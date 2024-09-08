@@ -29,3 +29,9 @@ Salt And Sugar is a restaurant app designed to streamline the ordering process f
 #### Admin Panel:
 1. Login to the admin dashboard.
 2. Manage the menu: add, remove, and edit menu items.
+   
+## Contributing
+Feel free to fork the project and submit pull requests. All contributions are welcome!
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
